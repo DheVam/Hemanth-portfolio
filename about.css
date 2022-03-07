@@ -1,0 +1,45 @@
+nav{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 10px;
+    list-style: none;
+    font-weight: 900;
+
+}
+
+ul{
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    color: aqua;
+    font-size: 20px;
+}
+
+h1{
+    display: flex;
+    align-items:center;
+    justify-content: flex-start;
+    font-size: 50px;;
+    
+}
+p{
+    display: flex;
+    align-items: flex-start;
+    font-size: larger;
+
+}
+li{
+    margin-left: 100px;
+    color: beige;
+    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+    
